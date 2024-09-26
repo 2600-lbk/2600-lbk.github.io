@@ -1,5 +1,10 @@
 body {
-    background-color: #222222;
-    color: yellow;
-    margin: 20px;
-  }
+  background-color: #222222;
+  color: yellow;
+  margin: 20px;
+}
+
+a,
+a:visited {
+  color: yellow;
+}
